@@ -17,7 +17,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roshan-chaudhary-3570a52a7/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=roshanchaudhary6262@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-F3E8FF?style=for-the-badge&logo=readme&logoColor=7C3AED&labelColor=F3E8FF)](https://drive.google.com/file/d/1CgF6N1ttS_TELFmek3BSLNBEvOMpWyJl/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/Resume-F3E8FF?style=for-the-badge&logo=readme&logoColor=7C3AED&labelColor=F3E8FF)](https://drive.google.com/file/d/1_lJGiku7KRJsuPXXwcTRFHdluj1ALR5m/view?usp=drivesdk)
 </div>
 
 <div align="center">
