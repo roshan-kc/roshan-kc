@@ -96,7 +96,7 @@ const Roshan = {
 ## 💭 Quote of the Day....
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:1A1A1A,100:2C3E50&text=कृष्णः%20सदा%20सहायते%20%7C%20राधे%20राधे%20%7C%20ॐ%20नमो%20भगवते%20वासुदेवाय।&fontSize=24&fontColor=FFD700&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:1A1A1A,100:2C3E50&text=I%20The%20GOAT%20%7C%20and%20Hero%20%7C%20of%20Nepal%20India%20World&fontSize=24&fontColor=FFD700&animation=twinkling" />
 </p>
 
 > ### 🙏 Trust God's Timing....
